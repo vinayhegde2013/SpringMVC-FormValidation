@@ -1,2 +1,2 @@
 # SpringMVC-FormValidation
-Form Validation using a default Spring properties.
+Form Validation using a default Spring properties. 
